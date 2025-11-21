@@ -8,5 +8,5 @@ else:
     print("No input given - using default values:")
     current=""
     withdrawal=""
-updated_balance = eval(current) -eval(withdrawal)
+updated_balance = eval(current) - eval(withdrawal)
 print("Updated Balance:", updated_balance)
