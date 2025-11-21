@@ -6,8 +6,8 @@ if len(sys.argv) == 3:
     print("User provided input values:")
 else:
     print("No input given - using default values:")
-    current = "1000"
-    withdrawal= "500"
+    current 
+    withdrawal
 
 updated_balance = eval(current) -eval(withdrawal)
 print("Updated Balance:", updated_balance)
