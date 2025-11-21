@@ -1,6 +1,7 @@
 import sys
 
 if len(sys.argv) == 3:
+    filename=sys.argv[0]
     current= sys.argv[1]
     withdrawal = sys.argv[2]
     print("User provided input values:")
